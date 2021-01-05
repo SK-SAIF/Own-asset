@@ -1,0 +1,104 @@
+.top{
+    background-image: url("images/robocop.back.jpg");
+    background-repeat: no-repeat;
+    
+    width: 1500px;
+    height: 750px;
+    padding-top: 100px;
+}
+.first-heading{
+    font-size: 40px;
+    color: rosybrown;
+    text-align: center;
+    font-size: 100px;
+}
+#name{
+    font-size: 50px;
+    color: salmon;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+
+
+}
+.myself{
+    box-shadow: 20px 20px 50px rgb(140, 210, 210);
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20%;
+    padding-top: 10px;
+    padding-bottom: 100px;
+    padding-right: 30px;
+    padding-left: 70px;
+    border-radius: 10px;
+
+    border: 1px solid black;
+    float: right;
+
+
+}
+.middle{
+    background-color: rgb(129, 141, 146);
+    
+
+    
+    
+}
+.mypic{
+    width: 40%;
+    height: 30%;
+    
+}
+h2{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkslategray;
+}
+.quotes{
+    background-image: url("images/chadback.jpg");
+    font-weight: 300;
+    font-size: 15px;
+    color: rgb(0, 139, 46);
+    font-family: sans-serif;
+    text-align: right;
+    margin: 1px;
+    
+    padding:200px 200px;
+}
+.lastpart{
+    background-color: rgb(90, 79, 79);
+    border: 1px solid yellow;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+    
+}
+#insta{
+    background-color: rgba(255, 0, 85, 0.993);
+    font-weight: bolder;
+    color: rgb(26, 4, 19);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: 'Lobster', cursive;
+}
+#fb{
+    background-color: rgb(0, 153, 255);
+    font-weight: bolder;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+   font-family: cursive;
+
+}
+.lastpart h2{
+    color: blanchedalmond;
+    font-weight: 900;
+    font-size: 40px;
+}
